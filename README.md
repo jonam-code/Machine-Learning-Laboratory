@@ -14,3 +14,5 @@ Implement any of the supervised machine learning algorithm that follows non-para
 Compare and Contrast single regression with multiple regression and provide a detailed observation regarding the working of models with proper inference.
 
 
+# Lab 4
+Program is related to dimensionality reduction. With suitable dataset explore the working of PCA and LDA and identify the differences in the working procedures of both the techniques. Provide sufficient inference based on your understanding and observations.
