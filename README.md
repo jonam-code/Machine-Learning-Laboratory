@@ -22,3 +22,6 @@ Create a program to implement ANN, SVM and Logistic regression for binary classi
 NOTE: Prepare a detailed report on comparative study.
 
 # Lab 6
+
+
+# Lab 7
