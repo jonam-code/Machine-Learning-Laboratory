@@ -20,3 +20,5 @@ Create a program to implement ANN, SVM and Logistic regression for binary classi
       3. Hyper parameter tuning and 
       4. Advantages and disadvantages of each technique
 NOTE: Prepare a detailed report on comparative study.
+
+# Lab 6
