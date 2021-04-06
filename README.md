@@ -25,3 +25,6 @@ NOTE: Prepare a detailed report on comparative study.
 
 
 # Lab 7
+
+
+# Lab 8
