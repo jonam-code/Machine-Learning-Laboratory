@@ -21,6 +21,7 @@ Create a program to implement ANN, SVM and Logistic regression for binary classi
       4. Advantages and disadvantages of each technique
 NOTE: Prepare a detailed report on comparative study.
 
+
 # Lab 6
 
 
