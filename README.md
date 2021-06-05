@@ -36,4 +36,9 @@ Naive Bayes (NB) Classification
 # Lab 11
 Clustering (Distance based methods)
 
+Verify the competitive and computational performance of K-means, K-median and K-mode algorithms on the data of your chosen domain.
+Provide the proper inference higlighting advantages and disadvantages of each algorithm.
+
+# Lab 12
+
 
