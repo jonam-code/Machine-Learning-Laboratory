@@ -34,5 +34,6 @@ Check the performance of KNN with binary, categorical & numerical data
 Naive Bayes (NB) Classification
 
 # Lab 11
+Clustering (Distance based methods)
 
 
