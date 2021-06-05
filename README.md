@@ -24,5 +24,12 @@ NOTE: Prepare a detailed report on comparative study.
 # Lab 7 - 8
 This weeks lab task is on experimenting with Support Vector Machine. Implement both SVC and SVR to perform classification and regression task on your assigned domain. Check the impact of learning rate and kernels on the model's performance
 
-# Lab 8
+# Lab 9
+Implement KNN classier and experiment with the following concepts
+
+Check the performance of KNN with different distance measures
+Check the performance of KNN with binary, categorical & numerical data
+
+# Lab 10
+
 
