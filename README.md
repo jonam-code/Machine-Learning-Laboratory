@@ -21,7 +21,8 @@ Create a program to implement ANN, SVM and Logistic regression for binary classi
       4. Advantages and disadvantages of each technique
 NOTE: Prepare a detailed report on comparative study.
 
-# Lab 7
+# Lab 7 - 8
+This weeks lab task is on experimenting with Support Vector Machine. Implement both SVC and SVR to perform classification and regression task on your assigned domain. Check the impact of learning rate and kernels on the model's performance
 
 # Lab 8
 
