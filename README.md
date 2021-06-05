@@ -31,5 +31,8 @@ Check the performance of KNN with different distance measures
 Check the performance of KNN with binary, categorical & numerical data
 
 # Lab 10
+Naive Bayes (NB) Classification
+
+# Lab 11
 
 
