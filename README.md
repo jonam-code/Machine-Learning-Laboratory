@@ -13,16 +13,13 @@ Compare and Contrast single regression with multiple regression and provide a de
 # Lab 4
 Program is related to dimensionality reduction. With suitable dataset explore the working of PCA and LDA and identify the differences in the working procedures of both the techniques. Provide sufficient inference based on your understanding and observations.
 
-# Lab 5
+# Lab 5 - 6
 Create a program to implement ANN, SVM and Logistic regression for binary classification using respective datasets related to your own doamin. Find out the inference related to following:
       1. Time complexity
       2.Generalizing capacity of each technique
       3. Hyper parameter tuning and 
       4. Advantages and disadvantages of each technique
 NOTE: Prepare a detailed report on comparative study.
-
-
-# Lab 6
 
 # Lab 7
 
